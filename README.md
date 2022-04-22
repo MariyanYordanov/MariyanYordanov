@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MariyanYordanov
 
-- 🌱 I’m currently learning Databases.
+- 🌱 I’m currently learning Databases with MySQL/SQL
 
 - 📫 You can find ме in LinkedIn or Twitter or just send me an email
 

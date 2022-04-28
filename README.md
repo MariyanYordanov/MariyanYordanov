@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m MariyanYordanov and I study for full-stack devevoper in SoftUni 
 
-- 🌱 I’m currently learning Databases with MySQL/SQL
+- 🌱 I’m currently learning Databases
 
 - 📫 You can find ме in LinkedIn or Twitter or just send me an email
 
